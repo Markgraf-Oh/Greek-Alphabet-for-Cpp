@@ -5,7 +5,7 @@
 
 int main()
 {
-    UseUnicodeInVSCode();
+    Greek::UseUnicodeInVSCode();
     
     std::string test = Greek::Tau;
     std::cout << test << std::endl;
