@@ -16,6 +16,8 @@ Well, it's true that this header is purely for self-satisfaction, and inefficent
 
 ## What's inside?
 
+> You only needs  [GreakAlphabet.h](GreakAlphabet.h)  file
+
 There is cosnt std::string type variables inside Greek namespace
 
     namespace Greek
